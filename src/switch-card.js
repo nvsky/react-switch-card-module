@@ -8,8 +8,12 @@ const SwitchCard = React.createClass({
       'test': true
     });
     return (
-      <div className={trimClass}>
-        <ReactSwipe />
+      <div>
+        <ReactSwipe className={trimClass} style={{width: '300px', height: '100px'}} swipeOptions={{continuous: false}}>
+          <div>PANE 1</div>
+          <div>PANE 2</div>
+          <div>PANE 3</div>
+        </ReactSwipe>
       </div>
     );
   }
