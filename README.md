@@ -8,25 +8,25 @@ switch card for react module
 [![Test coverage][coveralls-image]][coveralls-url]
 [![npm download][download-image]][download-url]
 
-[travis-image]: https://travis-ci.org/nvsky/mobile-login-react-module.svg?style=flat-square
-[travis-url]: https://travis-ci.org/nvsky/mobile-login-react-module
-[npm-image]: https://img.shields.io/npm/v/mobile-login-module.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/rc-switch
-[coveralls-image]: https://coveralls.io/repos/github/nvsky/mobile-login-react-module/badge.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/github/nvsky/mobile-login-react-module?branch=master
-[download-image]: https://img.shields.io/npm/dm/mobile-login-module.svg?style=flat-square
-[download-url]: https://npmjs.org/package/mobile-login-module
+[travis-image]: https://travis-ci.org/nvsky/react-switch-card-module.svg?style=flat-square
+[travis-url]: https://travis-ci.org/nvsky/react-switch-card-module
+[npm-image]: https://img.shields.io/npm/v/react-switch-card-module.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/react-switch-card-module
+[coveralls-image]: https://coveralls.io/repos/github/nvsky/react-switch-card-module/badge.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/github/nvsky/react-switch-card-module?branch=master
+[download-image]: https://img.shields.io/npm/dm/react-switch-card-module.svg?style=flat-square
+[download-url]: https://npmjs.org/package/react-switch-card-module
 
 ## install
 
-[![mobile-login-module](https://nodei.co/npm/mobile-login-module.png)](https://npmjs.org/package/mobile-login-module)
+[![react-switch-card-module](https://nodei.co/npm/react-switch-card-module.png)](https://npmjs.org/package/react-switch-card-module)
 
 ## Usage
 
 ```js
-var Login = require('mobile-login-module');
+var SwitchCard = require('react-switch-card-module');
 var React = require('react');
-React.render(<Login />, container);
+React.render(<SwitchCard />, container);
 ```
 
 ## API
@@ -73,6 +73,6 @@ npm start
 
 ## Example
 
-https://nvsky.github.io/mobile-login-react-module/build/
+https://nvsky.github.io/react-switch-card-module/build/
 
 
